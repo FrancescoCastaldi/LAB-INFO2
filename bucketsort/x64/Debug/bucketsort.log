@@ -1,0 +1,3 @@
+﻿  bucketsort.c
+C:\Users\Utente\Desktop\Esercizi informatica per esame\bucketsort\bucketsort.c(33,7): warning C4047: 'inizializzazione': 'int' differisce da 'const ElemType *' nei livelli di riferimento indiretto
+  bucketsort.vcxproj -> C:\Users\Utente\Desktop\Esercizi informatica per esame\bucketsort\x64\Debug\bucketsort.exe
