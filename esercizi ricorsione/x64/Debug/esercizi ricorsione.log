@@ -1,0 +1,6 @@
+﻿  esercizivari.c
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\yvals_core.h(28): STL1003: Unexpected compiler, expected C++ compiler.
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\yvals_core.h(29,1): fatal  error C1189: #error:  Error in C++ Standard Library usage
+  main.c
+C:\Users\Utente\Documents\Esercizi informatica per esame\esercizi ricorsione\main.c(46,15): error C2065: 'M_PI': identificatore non dichiarato
+  Generazione del codice in corso...

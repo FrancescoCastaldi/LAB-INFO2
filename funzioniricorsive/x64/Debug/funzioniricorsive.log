@@ -1,0 +1,8 @@
+﻿  prodotto_negativi.c
+C:\Users\Utente\Documents\Esercizi informatica per esame\funzioniricorsive\prodotto_negativi.c(21,8): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\Utente\Documents\Esercizi informatica per esame\funzioniricorsive\prodotto_negativi.c(22,8): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\Utente\Documents\Esercizi informatica per esame\funzioniricorsive\prodotto_negativi.c(28,8): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\Utente\Documents\Esercizi informatica per esame\funzioniricorsive\prodotto_negativi.c(29,8): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\Utente\Documents\Esercizi informatica per esame\funzioniricorsive\prodotto_negativi.c(36,8): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\Utente\Documents\Esercizi informatica per esame\funzioniricorsive\prodotto_negativi.c(18,11): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+  funzioniricorsive.vcxproj -> C:\Users\Utente\Documents\Esercizi informatica per esame\funzioniricorsive\x64\Debug\funzioniricorsive.exe
