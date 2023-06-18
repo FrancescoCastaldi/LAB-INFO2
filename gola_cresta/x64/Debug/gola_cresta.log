@@ -1,0 +1,4 @@
+﻿  gola_cresta.c
+C:\Users\Utente\Desktop\Info 2 2023\gola_cresta\gola_cresta.c(11,11): warning C4477: 'printf': con la stringa di formato '%li' è necessario un argomento di tipo 'long', ma il tipo dell'argomento variadic 1 è 'size_t'
+C:\Users\Utente\Desktop\Info 2 2023\gola_cresta\gola_cresta.c(11,11): message : provare a usare '%zi' nella stringa di formato
+  gola_cresta.vcxproj -> C:\Users\Utente\Desktop\Info 2 2023\gola_cresta\x64\Debug\gola_cresta.exe
