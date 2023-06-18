@@ -1,3 +1,3 @@
 # LAB-INFO2
 
-Ciao
+Esercizi Fondamenti II o Strutture dati ed Algoritmi
