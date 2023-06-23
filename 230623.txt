@@ -1,3 +1,9 @@
+<<<<<<< .mine
 Oggi ho fatto Git, spacca
 
 Ecco qui!
+=======
+Oggi ho fatto Git, spacca
+
+Purtroppo è così
+>>>>>>> .theirs
