@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: due o più file con il nome di elemtype.c produrranno output nello stesso percorso. Tale condizione può comportare un risultato di compilazione non corretto. I file interessati sono ..\list1\elemtype.c, elemtype.c.
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: due o più file con il nome di list.c produrranno output nello stesso percorso. Tale condizione può comportare un risultato di compilazione non corretto. I file interessati sono ..\list1\list.c, list.c.
+  main.c
+  intersect.vcxproj -> C:\Users\Francesco Castaldi\Desktop\Esercizi libro info 2\intersect\x64\Debug\intersect.exe
