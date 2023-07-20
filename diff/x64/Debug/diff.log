@@ -1,0 +1,3 @@
+﻿  diff.c
+C:\Users\Francesco Castaldi\Desktop\Esercizi libro info 2\diff\diff.c(13,26): warning C4090: 'return': qualificatori 'const' differenti
+  diff.vcxproj -> C:\Users\Francesco Castaldi\Desktop\Esercizi libro info 2\diff\x64\Debug\diff.exe

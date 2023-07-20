@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: la directory intermedia (x64\Debug\) contiene file condivisi da un altro progetto (diff.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  no_rep.c
+main.obj : error LNK2019: riferimento al simbolo esterno Diff non risolto nella funzione main
+C:\Users\Francesco Castaldi\Desktop\Esercizi libro info 2\intersectnorep\x64\Debug\no_rep.exe : fatal error LNK1120: 1 esterni non risolti
