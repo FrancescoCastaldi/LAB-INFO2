@@ -1,0 +1,7 @@
+﻿  heapsort.c
+C:\Users\Utente\Desktop\LAB-INFO2\Heap\moveuprec\heapsort.c(17,64): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  main.c
+C:\Users\Utente\Desktop\LAB-INFO2\Heap\moveuprec\main.c(16,8): error C2440: 'inizializzazione': impossibile convertire da 'void' a 'Heap *'
+C:\Users\Utente\Desktop\LAB-INFO2\Heap\moveuprec\main.c(17,8): error C2440: 'inizializzazione': impossibile convertire da 'void' a 'Heap *'
+C:\Users\Utente\Desktop\LAB-INFO2\Heap\moveuprec\main.c(18,8): warning C4047: 'inizializzazione': 'Heap *' differisce da 'bool' nei livelli di riferimento indiretto
+  Generazione del codice in corso...
