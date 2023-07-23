@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: due o più file con il nome di elemtype.c produrranno output nello stesso percorso. Tale condizione può comportare un risultato di compilazione non corretto. I file interessati sono ..\..\..\Downloads\doublelist_int\elemtype.c, ..\..\..\Downloads\minheap_int\elemtype.c, ..\..\..\Downloads\tree_char\elemtype.c.
+  doublelist.c
+  elemtype.c
+  elemtype.c
+  minheap.c
+C:\Users\Utente\Downloads\minheap_int\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Utente\Downloads\minheap_int\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  elemtype.c
+  tree.c
+  leonardo.c
+  Generazione del codice in corso...
+x64\Debug\elemtype.obj : warning LNK4042: oggetto specificato più di una volta; occorrenze supplementari ignorate
+x64\Debug\elemtype.obj : warning LNK4042: oggetto specificato più di una volta; occorrenze supplementari ignorate
+  esame28.vcxproj -> C:\Users\Utente\Desktop\LAB-INFO2\esame28\x64\Debug\esame28.exe
