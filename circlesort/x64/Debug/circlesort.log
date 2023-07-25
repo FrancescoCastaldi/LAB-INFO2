@@ -1,0 +1,3 @@
+﻿  circle_sort.c
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Utente\Desktop\LAB-INFO2\circlesort\x64\Debug\circlesort.exe : fatal error LNK1120: 1 esterni non risolti

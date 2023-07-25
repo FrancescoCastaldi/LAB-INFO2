@@ -12,39 +12,37 @@ void swap(int* v, size_t a, size_t b)
 }
 void CircleSortRec(int* v, size_t start, size_t stop, bool* continua, size_t v_size)
 {
-	if (v_size == 1)
-		return;
-
-	size_t cpy_start = start;
-	size_t cpy_stop = stop;
-
-	while (cpy_start < cpy_stop)
-	{
-		if (v[cpy_start] > v[cpy_stop])
-		{
-			swap(v, cpy_start, cpy_stop);
+	if (v_size == 1)return;
+	size_t cpystart = start;
+	size_t cpystop = stop;
+	while (cpystart < cpystop) {
+		if (v[cpystart] > v[cpystop]) {
+			swap(v, cpystart, cpystop);
 			*continua = true;
+
 		}
-		cpy_start++;
-		cpy_stop--;
+
+		cpystart++;
+		cpystop--;
+
 	}
-	if (((v_size % 2) == 1) && (v[v_size / 2] > v[(v_size / 2) + 1]))
-	{
-		swap(v, ((stop + 1) / 2), (((stop + 1) / 2) + 1));
+	if (v[v_size] % 2 == 1 && v[v_size / 2] > v[v_size / 2] + 1) {
+		swap(v, ((1 + stop) / 2), ((1 + stop) / 2) + 1);
 		*continua = true;
 	}
 
-	if (v_size % 2 == 0)
-	{
+	if (v_size % 2 == 0) {
 		CircleSortRec(v, start, ((stop + start) / 2), continua, v_size / 2);
-		CircleSortRec(v, ((stop + start) / 2) + 1, stop, continua, v_size / 2);
+		CircleSortRec(v, ((start+stop)/2+1), stop, continua, v_size / 2);
 	}
-	else
-	{
-		CircleSortRec(v, start, (stop + start) / 2, continua, (v_size + 1) / 2);
-		CircleSortRec(v, ((stop + start) / 2) + 1, stop, continua, v_size / 2);
+	else {
+		CircleSortRec(v, start, (stop + start) / 2, continua, ((v_size+1) / 2));
+		CircleSortRec(v, ((start + stop) / 2+1), stop, continua,( v_size / 2));
+
 	}
+
 	return;
+	
 }
 
 void CircleSort(int* v, size_t v_size)
